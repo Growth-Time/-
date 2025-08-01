@@ -39,5 +39,5 @@
 
 如果您觉得这个项目对您有帮助，您可以扫描以下二维码进行捐赠：
 <p align="left">
-  <img src="/Alipay_Donate.jpg" width="20%"><img src="/WeChat Pay_Donate.png" width="20%">
+  <img src="/Alipay_Donate.jpg" width="20%">      <img src="/WeChat Pay_Donate.png" width="20%">
 </p>
